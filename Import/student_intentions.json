@@ -1,0 +1,2797 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 217,
+            "student_id": 201,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 218,
+            "student_id": 313,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "obojętny lokal"
+        },
+        {
+            "id": 219,
+            "student_id": 179,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 220,
+            "student_id": 147,
+            "subject_id": 1027,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "obojętnie"
+        },
+        {
+            "id": 221,
+            "student_id": 147,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "obojętnie"
+        },
+        {
+            "id": 222,
+            "student_id": 111,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "niby chce w pt o 16 ale 2x konczy o 11:30 wiec niestety + CHCE ZACZAĆ OD 3 TYG"
+        },
+        {
+            "id": 223,
+            "student_id": 293,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": "z Justyną "
+        },
+        {
+            "id": 224,
+            "student_id": 298,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 225,
+            "student_id": 169,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 226,
+            "student_id": 259,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 227,
+            "student_id": 162,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "obojętnie, sobota lekcje"
+        },
+        {
+            "id": 229,
+            "student_id": 66,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 230,
+            "student_id": 79,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": "koniecznie z Davidem, może Pił też wchodzi w gre"
+        },
+        {
+            "id": 231,
+            "student_id": 248,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 233,
+            "student_id": 168,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "obojętnie"
+        },
+        {
+            "id": 234,
+            "student_id": 168,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "obojętnie"
+        },
+        {
+            "id": 235,
+            "student_id": 255,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": "pref: w srodku tyg skonczyc przed 17:30"
+        },
+        {
+            "id": 237,
+            "student_id": 234,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 238,
+            "student_id": 78,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": "najlepiej poniedziałek "
+        },
+        {
+            "id": 239,
+            "student_id": 60,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 240,
+            "student_id": 32,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 241,
+            "student_id": 296,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "obojętnie"
+        },
+        {
+            "id": 242,
+            "student_id": 117,
+            "subject_id": 1012,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": "obojętnie"
+        },
+        {
+            "id": 245,
+            "student_id": 328,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 246,
+            "student_id": 330,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "chce w czwartek o 13:30"
+        },
+        {
+            "id": 247,
+            "student_id": 146,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 248,
+            "student_id": 113,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 249,
+            "student_id": 67,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": "koniecznie boh"
+        },
+        {
+            "id": 250,
+            "student_id": 70,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 251,
+            "student_id": 218,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 252,
+            "student_id": 266,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 253,
+            "student_id": 93,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": "z kobieta chce lekcje"
+        },
+        {
+            "id": 254,
+            "student_id": 93,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 255,
+            "student_id": 167,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 256,
+            "student_id": 167,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 258,
+            "student_id": 196,
+            "subject_id": 1016,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 259,
+            "student_id": 187,
+            "subject_id": 1029,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "w pon lub srode"
+        },
+        {
+            "id": 261,
+            "student_id": 186,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 262,
+            "student_id": 333,
+            "subject_id": 1044,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 263,
+            "student_id": 333,
+            "subject_id": 1027,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 264,
+            "student_id": 75,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": "pref: 1h w pon o 19 i 1h wt o 18"
+        },
+        {
+            "id": 265,
+            "student_id": 75,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": "pref: 1h w pon o 19 i 1h wt o 18"
+        },
+        {
+            "id": 269,
+            "student_id": 268,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": "2 h pod rząd"
+        },
+        {
+            "id": 270,
+            "student_id": 283,
+            "subject_id": 1027,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 271,
+            "student_id": 184,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 272,
+            "student_id": 161,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 273,
+            "student_id": 140,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 274,
+            "student_id": 83,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 275,
+            "student_id": 83,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 276,
+            "student_id": 253,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 279,
+            "student_id": 49,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 280,
+            "student_id": 298,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": "od nast polrocza 2 h / tyg"
+        },
+        {
+            "id": 281,
+            "student_id": 59,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": "po lekcjach chce"
+        },
+        {
+            "id": 282,
+            "student_id": 74,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "koniecznie z Davidem "
+        },
+        {
+            "id": 284,
+            "student_id": 254,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "najlepieij poniedzialek, godz bez znaczenia"
+        },
+        {
+            "id": 285,
+            "student_id": 316,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 286,
+            "student_id": 222,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": "koniecznie 1h w sob i 1h w tyg + zajecia z kobieta"
+        },
+        {
+            "id": 287,
+            "student_id": 241,
+            "subject_id": 1012,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 288,
+            "student_id": 197,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 289,
+            "student_id": 197,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 290,
+            "student_id": 162,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "soboty git"
+        },
+        {
+            "id": 291,
+            "student_id": 39,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": "od razu po lekcjach"
+        },
+        {
+            "id": 292,
+            "student_id": 90,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": "może z bratem łączyć (?)"
+        },
+        {
+            "id": 293,
+            "student_id": 90,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 294,
+            "student_id": 91,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 295,
+            "student_id": 91,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 296,
+            "student_id": 44,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 297,
+            "student_id": 335,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 298,
+            "student_id": 335,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 300,
+            "student_id": 219,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 301,
+            "student_id": 219,
+            "subject_id": 1040,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 303,
+            "student_id": 336,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 304,
+            "student_id": 337,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 305,
+            "student_id": 165,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 306,
+            "student_id": 338,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 309,
+            "student_id": 338,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 310,
+            "student_id": 84,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 311,
+            "student_id": 261,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "pref: środy"
+        },
+        {
+            "id": 312,
+            "student_id": 339,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 313,
+            "student_id": 340,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 314,
+            "student_id": 102,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "pref wt lub czw"
+        },
+        {
+            "id": 315,
+            "student_id": 121,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 317,
+            "student_id": 341,
+            "subject_id": 1042,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 318,
+            "student_id": 342,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 319,
+            "student_id": 343,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 320,
+            "student_id": 344,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 321,
+            "student_id": 46,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 322,
+            "student_id": 345,
+            "subject_id": 1037,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": "w parze z MIchalina Fujarczuk"
+        },
+        {
+            "id": 323,
+            "student_id": 346,
+            "subject_id": 1037,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": "z Zofia Kocuba"
+        },
+        {
+            "id": 324,
+            "student_id": 347,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 325,
+            "student_id": 348,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 326,
+            "student_id": 349,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 327,
+            "student_id": 170,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 328,
+            "student_id": 350,
+            "subject_id": 1012,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 329,
+            "student_id": 351,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 330,
+            "student_id": 85,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": "SOBOTA SOBOTA SOBOTA"
+        },
+        {
+            "id": 331,
+            "student_id": 94,
+            "subject_id": 1045,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 332,
+            "student_id": 352,
+            "subject_id": 1026,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 333,
+            "student_id": 353,
+            "subject_id": 1012,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 335,
+            "student_id": 353,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 336,
+            "student_id": 160,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": "myśle że sobota powinna przejsc"
+        },
+        {
+            "id": 337,
+            "student_id": 354,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 338,
+            "student_id": 112,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 339,
+            "student_id": 112,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 340,
+            "student_id": 327,
+            "subject_id": 1040,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": "TEST"
+        },
+        {
+            "id": 341,
+            "student_id": 356,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "raczej Pił bo rolnik"
+        },
+        {
+            "id": 342,
+            "student_id": 275,
+            "subject_id": 1044,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 343,
+            "student_id": 252,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 344,
+            "student_id": 357,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 345,
+            "student_id": 107,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 346,
+            "student_id": 308,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 347,
+            "student_id": 358,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 348,
+            "student_id": 358,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 349,
+            "student_id": 168,
+            "subject_id": 1045,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 350,
+            "student_id": 359,
+            "subject_id": 1037,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 351,
+            "student_id": 359,
+            "subject_id": 1046,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 352,
+            "student_id": 147,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 353,
+            "student_id": 324,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 354,
+            "student_id": 324,
+            "subject_id": 1012,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 355,
+            "student_id": 360,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 356,
+            "student_id": 360,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 357,
+            "student_id": 361,
+            "subject_id": 1037,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 358,
+            "student_id": 361,
+            "subject_id": 1046,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 359,
+            "student_id": 362,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 360,
+            "student_id": 363,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 361,
+            "student_id": 364,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 362,
+            "student_id": 365,
+            "subject_id": 1037,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 363,
+            "student_id": 366,
+            "subject_id": 1037,
+            "weekly_sessions": 2,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 364,
+            "student_id": 367,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 365,
+            "student_id": 368,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 366,
+            "student_id": 369,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "pon tylko kończy 14:10"
+        },
+        {
+            "id": 367,
+            "student_id": 370,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 368,
+            "student_id": 371,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 369,
+            "student_id": 372,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 370,
+            "student_id": 373,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": "sobota od 11 2h"
+        },
+        {
+            "id": 371,
+            "student_id": 374,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "sobota ok i piątek od 16"
+        },
+        {
+            "id": 372,
+            "student_id": 375,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 373,
+            "student_id": 375,
+            "subject_id": 1025,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 374,
+            "student_id": 376,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 375,
+            "student_id": 106,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "preferuje srode, brak planu"
+        },
+        {
+            "id": 376,
+            "student_id": 377,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "spróbować grupę wcisnąć"
+        },
+        {
+            "id": 377,
+            "student_id": 282,
+            "subject_id": 1042,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 378,
+            "student_id": 282,
+            "subject_id": 1045,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 379,
+            "student_id": 378,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 380,
+            "student_id": 379,
+            "subject_id": 1044,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 381,
+            "student_id": 379,
+            "subject_id": 1029,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 382,
+            "student_id": 107,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 383,
+            "student_id": 382,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 385,
+            "student_id": 380,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 386,
+            "student_id": 383,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": 2,
+            "notes": ""
+        },
+        {
+            "id": 387,
+            "student_id": 381,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 388,
+            "student_id": 381,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 389,
+            "student_id": 384,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 390,
+            "student_id": 367,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 391,
+            "student_id": 367,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 392,
+            "student_id": 372,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 393,
+            "student_id": 355,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 394,
+            "student_id": 355,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 395,
+            "student_id": 323,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 396,
+            "student_id": 323,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 397,
+            "student_id": 385,
+            "subject_id": 1028,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 398,
+            "student_id": 386,
+            "subject_id": 1028,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 399,
+            "student_id": 387,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 400,
+            "student_id": 149,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 401,
+            "student_id": 388,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 402,
+            "student_id": 389,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 403,
+            "student_id": 390,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 404,
+            "student_id": 391,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 405,
+            "student_id": 391,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 406,
+            "student_id": 391,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 407,
+            "student_id": 392,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 408,
+            "student_id": 393,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 409,
+            "student_id": 377,
+            "subject_id": 1025,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 410,
+            "student_id": 177,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 412,
+            "student_id": 395,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 413,
+            "student_id": 396,
+            "subject_id": 1016,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 414,
+            "student_id": 397,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 415,
+            "student_id": 398,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 416,
+            "student_id": 399,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 417,
+            "student_id": 400,
+            "subject_id": 1029,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 418,
+            "student_id": 401,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 419,
+            "student_id": 402,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 420,
+            "student_id": 144,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 421,
+            "student_id": 144,
+            "subject_id": 1029,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 422,
+            "student_id": 125,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 423,
+            "student_id": 398,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 424,
+            "student_id": 196,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 425,
+            "student_id": 404,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 426,
+            "student_id": 405,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 427,
+            "student_id": 406,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 428,
+            "student_id": 407,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 429,
+            "student_id": 408,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": 1,
+            "notes": ""
+        },
+        {
+            "id": 430,
+            "student_id": 409,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 431,
+            "student_id": 410,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 432,
+            "student_id": 411,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 433,
+            "student_id": 411,
+            "subject_id": 1025,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 434,
+            "student_id": 412,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": "SOBOTY OK "
+        },
+        {
+            "id": 435,
+            "student_id": 413,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 436,
+            "student_id": 414,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 437,
+            "student_id": 249,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 438,
+            "student_id": 415,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": "SOBOTY OK "
+        },
+        {
+            "id": 439,
+            "student_id": 416,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 440,
+            "student_id": 417,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 441,
+            "student_id": 419,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 442,
+            "student_id": 420,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 443,
+            "student_id": 421,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 444,
+            "student_id": 422,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 445,
+            "student_id": 423,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 446,
+            "student_id": 357,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 447,
+            "student_id": 115,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 448,
+            "student_id": 424,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 449,
+            "student_id": 280,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 450,
+            "student_id": 425,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 451,
+            "student_id": 426,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 452,
+            "student_id": 427,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 453,
+            "student_id": 428,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 454,
+            "student_id": 429,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 455,
+            "student_id": 430,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 456,
+            "student_id": 432,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 457,
+            "student_id": 433,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 458,
+            "student_id": 434,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 459,
+            "student_id": 435,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 460,
+            "student_id": 436,
+            "subject_id": 1025,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 461,
+            "student_id": 436,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 462,
+            "student_id": 436,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 463,
+            "student_id": 437,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 464,
+            "student_id": 438,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 465,
+            "student_id": 439,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 466,
+            "student_id": 440,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 468,
+            "student_id": 442,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 469,
+            "student_id": 443,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 470,
+            "student_id": 444,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 471,
+            "student_id": 445,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 472,
+            "student_id": 446,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 473,
+            "student_id": 447,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 474,
+            "student_id": 448,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 475,
+            "student_id": 449,
+            "subject_id": 1025,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 477,
+            "student_id": 450,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 478,
+            "student_id": 109,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 480,
+            "student_id": 452,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 481,
+            "student_id": 452,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 482,
+            "student_id": 453,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 483,
+            "student_id": 454,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": "lekcja za 70 zł - promotorka"
+        },
+        {
+            "id": 484,
+            "student_id": 455,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 485,
+            "student_id": 456,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 486,
+            "student_id": 457,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 487,
+            "student_id": 458,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 488,
+            "student_id": 459,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 489,
+            "student_id": 463,
+            "subject_id": 1049,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 490,
+            "student_id": 460,
+            "subject_id": 1049,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 491,
+            "student_id": 465,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 492,
+            "student_id": 466,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 493,
+            "student_id": 467,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 494,
+            "student_id": 468,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 496,
+            "student_id": 469,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 497,
+            "student_id": 470,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 498,
+            "student_id": 353,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 499,
+            "student_id": 471,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 500,
+            "student_id": 472,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 501,
+            "student_id": 473,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 502,
+            "student_id": 474,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 503,
+            "student_id": 475,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 504,
+            "student_id": 467,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 505,
+            "student_id": 476,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 506,
+            "student_id": 477,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 508,
+            "student_id": 479,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 509,
+            "student_id": 480,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 510,
+            "student_id": 481,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 511,
+            "student_id": 482,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 512,
+            "student_id": 483,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 513,
+            "student_id": 484,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 514,
+            "student_id": 485,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 516,
+            "student_id": 487,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 517,
+            "student_id": 488,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 518,
+            "student_id": 490,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 519,
+            "student_id": 491,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 520,
+            "student_id": 149,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 521,
+            "student_id": 492,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 522,
+            "student_id": 493,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 523,
+            "student_id": 494,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 524,
+            "student_id": 495,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 525,
+            "student_id": 497,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 526,
+            "student_id": 498,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 527,
+            "student_id": 499,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 528,
+            "student_id": 500,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 529,
+            "student_id": 501,
+            "subject_id": 1017,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 530,
+            "student_id": 502,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 531,
+            "student_id": 503,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 532,
+            "student_id": 503,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 533,
+            "student_id": 504,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 534,
+            "student_id": 505,
+            "subject_id": 1050,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 535,
+            "student_id": 506,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 536,
+            "student_id": 507,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 537,
+            "student_id": 508,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 538,
+            "student_id": 509,
+            "subject_id": 1045,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 539,
+            "student_id": 510,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 540,
+            "student_id": 511,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 541,
+            "student_id": 512,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 542,
+            "student_id": 513,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 543,
+            "student_id": 514,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 544,
+            "student_id": 515,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 545,
+            "student_id": 516,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 546,
+            "student_id": 517,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 547,
+            "student_id": 473,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 548,
+            "student_id": 200,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 549,
+            "student_id": 518,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 550,
+            "student_id": 519,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 551,
+            "student_id": 520,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 552,
+            "student_id": 521,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 553,
+            "student_id": 522,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 554,
+            "student_id": 523,
+            "subject_id": 1002,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 555,
+            "student_id": 524,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 556,
+            "student_id": 524,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 557,
+            "student_id": 525,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 558,
+            "student_id": 527,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 559,
+            "student_id": 528,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 560,
+            "student_id": 529,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 561,
+            "student_id": 530,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 562,
+            "student_id": 531,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 563,
+            "student_id": 532,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 564,
+            "student_id": 532,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 565,
+            "student_id": 532,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 566,
+            "student_id": 533,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 567,
+            "student_id": 534,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 568,
+            "student_id": 535,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 569,
+            "student_id": 536,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 570,
+            "student_id": 537,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 571,
+            "student_id": 538,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 572,
+            "student_id": 540,
+            "subject_id": 1003,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 573,
+            "student_id": 541,
+            "subject_id": 1003,
+            "weekly_sessions": 4,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 574,
+            "student_id": 542,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 575,
+            "student_id": 543,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 576,
+            "student_id": 544,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 577,
+            "student_id": 545,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 578,
+            "student_id": 546,
+            "subject_id": 1003,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 579,
+            "student_id": 547,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 580,
+            "student_id": 548,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 581,
+            "student_id": 549,
+            "subject_id": 1018,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 582,
+            "student_id": 550,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 583,
+            "student_id": 551,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 584,
+            "student_id": 552,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 585,
+            "student_id": 552,
+            "subject_id": 1018,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 586,
+            "student_id": 553,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 587,
+            "student_id": 292,
+            "subject_id": 1002,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 588,
+            "student_id": 555,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 589,
+            "student_id": 556,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 590,
+            "student_id": 557,
+            "subject_id": 1001,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 591,
+            "student_id": 558,
+            "subject_id": 1001,
+            "weekly_sessions": 2,
+            "preferred_location_id": null,
+            "notes": ""
+        },
+        {
+            "id": 592,
+            "student_id": 559,
+            "subject_id": 1017,
+            "weekly_sessions": 1,
+            "preferred_location_id": null,
+            "notes": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 3,
+            "name": "BW Sala niebieska",
+            "color": "#1a5fb4",
+            "student_capacity": 1,
+            "has_interactive_display": false,
+            "physical_address": "ul. Bohaterów Warszawy 4.",
+            "location_id": 1
+        },
+        {
+            "id": 1,
+            "name": "BW Sala pomarańczowa",
+            "color": "#c64600",
+            "student_capacity": 6,
+            "has_interactive_display": false,
+            "physical_address": "ul. Bohaterów Warszawy 4.",
+            "location_id": 1
+        },
+        {
+            "id": 2,
+            "name": "BW Sala zielona",
+            "color": "#376722",
+            "student_capacity": 6,
+            "has_interactive_display": true,
+            "physical_address": "ul. Bohaterów Warszawy 4.",
+            "location_id": 1
+        },
+       
+       
+       
+        {
+            "id": 4,
+            "name": "Pił. Sala niebieska",
+            "color": "#99c1f1",
+            "student_capacity": 2,
+            "has_interactive_display": false,
+            "physical_address": "ul. Piłsudskiego 12b",
+            "location_id": 2
+        },
+        {
+            "id": 5,
+            "name": "Pił. Sala pomarańczowa",
+            "color": "#ffa348",
+            "student_capacity": 3,
+            "has_interactive_display": false,
+            "physical_address": "ul. Piłsudskiego 12b",
+            "location_id": 2
+        },
+        {
+            "id": 49,
+            "name": "Pił. Sala szara",
+            "color": "#9a9996",
+            "student_capacity": 1,
+            "has_interactive_display": false,
+            "physical_address": "ul. Piłsudskiego 12b",
+            "location_id": 2
+        },
+        {
+            "id": 6,
+            "name": "Pił. Sala zielona",
+            "color": "#8ff0a4",
+            "student_capacity": 5,
+            "has_interactive_display": true,
+            "physical_address": "ul. Piłsudskiego 12b",
+            "location_id": 2
+        }
+        
+    
+    ]}
