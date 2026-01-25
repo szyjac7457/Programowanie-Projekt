@@ -42,7 +42,7 @@ def load_tutor_subject(f_path):
                 if not parts or not parts[0]:
                     continue
 
-                tutor_id = parts[0]
+                tutor_id = int(parts[0])
                 subjects = []
                 for s in parts[1:]:
                     if s.strip():
@@ -52,6 +52,16 @@ def load_tutor_subject(f_path):
         print(f"Błąd nie ma pliku {f_path}")
 
     return tutor_subjcets
+
+def create_rooms_grid(rooms_data):
+    grid = {}
+    for room in rooms_data:
+        room_id = room['id']
+        grid[room_id] = {
+            {day: {slot: True for slot in SLOTS} for day in range(1, 8)}
+        }
+    return grid
+
 
 
 def main():
