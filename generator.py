@@ -24,7 +24,7 @@ def load_data(filepath):
             intents = data.get('intentions', [])
 
 
-            print(f"✅ Sukces! Załadowano:")
+            print(f" Sukces! Załadowano:")
             print(f"   - Nauczyciele: {len(tutors)}")
             print(f"   - Uczniowie:   {len(students)}")
             print(f"   - Sale:        {len(rooms)}")
@@ -51,6 +51,41 @@ def main():
         sys.exit(1)
 
     
+def generate_schedule(tutors,students,rooms,intents):
+    #To bedzie serce programu. Z początku prosta pętla dobierająca wolną godzinę
+
+    print("\n -----Planowanie----")
+    grafik = []
+
+    for intent in intents:
+        s_id = str(intent['student_id'])
+        subject_id = intent['subject_id']
+        needed = intent.get('weekly_sessions', 1) # na wszelki wypadek niech wpisze 1, [] bo dane są trudne
+        possible_tutors = intent.get('possible_tutors_ids', [])
+
+        if s_id not in students:
+            print(f"  Pominięto zgłoszenie: Brak ucznia ID {s_id} w bazie.")
+            continue
+
+        student_schedule = students[s_id] #"wskaznik" na danego ucznia by nie działac ciagle na students
+        lekcje_umowione_dla_ucznia = 0
+
+
+    #  Pętla po nauczycielach
+        for t_id_raw in possible_tutors:
+            if lekcje_umowione_dla_ucznia >= needed:
+                break 
+            
+            t_id = str(t_id_raw)
+            if t_id not in tutors: 
+                continue # Tego nauczyciela nie ma w bazie, sprawdzamy następnego
+            
+            tutor_schedule = tutors[t_id]
+
+
+
+
+
 
 if __name__ == "__main__":
     main()
