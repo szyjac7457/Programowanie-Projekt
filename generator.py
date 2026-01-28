@@ -39,16 +39,7 @@ def load_data(filepath):
         return None, None, None, None
     
 
-def main():
-    print("--------GENERATOR GRAFIKU------")
-    
-  
-    tutors_map, students_map, rooms_map, intentions_list = load_data(INPUT_FILE)
 
-    
-    if not tutors_map or not intentions_list:
-        print("  Brak danych do przetwarzania. Zamykam program.")
-        sys.exit(1)
 
     
 def generate_schedule(tutors,students,rooms,intents):
@@ -56,6 +47,7 @@ def generate_schedule(tutors,students,rooms,intents):
 
     print("\n -----Planowanie----")
     grafik = []
+    zrealizowane = 0
 
     for intent in intents:
         s_id = str(intent['student_id'])
@@ -71,7 +63,7 @@ def generate_schedule(tutors,students,rooms,intents):
         lekcje_umowione_dla_ucznia = 0
 
 
-    #  Pętla po nauczycielach
+    #Pętla po nauczycielach
         for t_id_raw in possible_tutors:
             if lekcje_umowione_dla_ucznia >= needed:
                 break 
@@ -82,10 +74,78 @@ def generate_schedule(tutors,students,rooms,intents):
             
             tutor_schedule = tutors[t_id]
 
+            for dzien in range(1, 8):
+                if lekcje_umowione_dla_ucznia >= needed: break
+                dzien_str = str(dzien)
+                
+                #Pobieramy dostępność na dany dzień
+                t_day = tutor_schedule.get(dzien_str, {})
+                s_day = student_schedule.get(dzien_str, {})
+
+                for godzina, t_available in t_day.items(): #items aby przyporzadkowac godzinie godzine a tavaliable true or false
+                    if lekcje_umowione_dla_ucznia >= needed: break
+                    
+                    
+                    #Czy nauczyciel wolny?
+                    if t_available is not True: continue
+                    
+                    #Czy uczen wolny?
+                    if s_day.get(godzina) is not True: continue
+
+                    wolna_sala_id = None
+                    wolna_sala_obj = None
+                    for r_id, room_schedule in rooms.items():
+                        r_day = room_schedule.get(dzien_str, {})
+                        if r_day.get(godzina) is True:
+                            wolna_sala_id = r_id
+                            wolna_sala_obj = r_day
+                            break # Mamy sale
+                    
+                    if wolna_sala_id:
+                       #sukces, zapisanie lekcji
+                        grafik.append({
+                            "Dzien": dzien,
+                            "Godzina": godzina,
+                            "Przedmiot": subject_id,
+                            "Uczeń": s_id,
+                            "Nauczyciel": t_id,
+                            "Sala": wolna_sala_id
+                        })
+                        
+                        #Zajecie zasobow
+                        t_day[godzina] = False          
+                        s_day[godzina] = False          
+                        wolna_sala_obj[godzina] = False 
+                        
+                        lekcje_umowione_dla_ucznia += 1
+                        zrealizowane += 1
+
+    return grafik, zrealizowane
 
 
 
 
+
+
+
+def main():
+    
+    tutors, students, rooms, intents = load_data(INPUT_FILE)
+    if not tutors: sys.exit(1)
+
+    
+    grafik, sukcesy = generate_schedule(tutors, students, rooms, intents)
+
+   
+    print(f"\nZAKOŃCZONO PLANOWANIE.")
+    print(f"   Umówiono lekcji: {sukcesy}")
+    
+    if len(grafik) > 0:
+        print("\nPrzykładowe 5 lekcji:")
+        for lekcja in grafik[:5]:
+            print(lekcja)
+    else:
+        print("  Nie udało się umówić żadnej lekcji.")
 
 if __name__ == "__main__":
     main()
