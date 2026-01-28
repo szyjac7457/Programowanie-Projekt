@@ -102,6 +102,12 @@ def main():
                 sub_id = int(intention["subject_id"])
                 stu_id = int(intention["student_id"])
 
+                if stu_id not in students_grid:
+                    print(
+                        f"Pominięto intencję ID {intention['id']} Uczeń {stu_id} brak dostępności"
+                    )
+                    continue
+
                 possible_tutors = []
                 for t_id, sub in tutor_subjects.items():
                     if sub_id in sub and t_id in tutors_grid:
