@@ -761,15 +761,6 @@
             "notes": "2 h pod rząd"
         },
         {
-            "id": 270,
-            "student_id": 283,
-            "subject_id": 1027,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 271,
             "student_id": 184,
             "subject_id": 1001,
@@ -3433,28 +3424,6 @@
             "notes": ""
         },
         {
-            "id": 442,
-            "student_id": 420,
-            "subject_id": 1003,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                1,
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                34,
-                35,
-                38,
-                39
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 443,
             "student_id": 421,
             "subject_id": 1001,
@@ -3494,18 +3463,6 @@
                 35,
                 38,
                 39
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 445,
-            "student_id": 423,
-            "subject_id": 1018,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                37,
-                40
             ],
             "preferred_location_id": null,
             "notes": ""
@@ -3680,20 +3637,6 @@
             "notes": ""
         },
         {
-            "id": 455,
-            "student_id": 430,
-            "subject_id": 1017,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                5,
-                22,
-                26,
-                36
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 456,
             "student_id": 432,
             "subject_id": 1003,
@@ -3803,50 +3746,6 @@
             "weekly_sessions": 1,
             "possible_tutors_ids": [
                 37,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 463,
-            "student_id": 437,
-            "subject_id": 1003,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                1,
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                34,
-                35,
-                38,
-                39
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 464,
-            "student_id": 438,
-            "subject_id": 1001,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
                 40
             ],
             "preferred_location_id": null,
@@ -4367,28 +4266,6 @@
             "notes": ""
         },
         {
-            "id": 499,
-            "student_id": 471,
-            "subject_id": 1001,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 500,
             "student_id": 472,
             "subject_id": 1003,
@@ -4600,50 +4477,6 @@
             "possible_tutors_ids": [
                 37,
                 40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 512,
-            "student_id": 483,
-            "subject_id": 1001,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 513,
-            "student_id": 484,
-            "subject_id": 1003,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                1,
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                34,
-                35,
-                38,
-                39
             ],
             "preferred_location_id": null,
             "notes": ""
@@ -4861,28 +4694,6 @@
             "notes": ""
         },
         {
-            "id": 525,
-            "student_id": 497,
-            "subject_id": 1001,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 526,
             "student_id": 498,
             "subject_id": 1001,
@@ -5031,37 +4842,6 @@
             "notes": ""
         },
         {
-            "id": 534,
-            "student_id": 505,
-            "subject_id": 1050,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 535,
-            "student_id": 506,
-            "subject_id": 1003,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                1,
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                34,
-                35,
-                38,
-                39
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 536,
             "student_id": 507,
             "subject_id": 1018,
@@ -5092,15 +4872,6 @@
                 39,
                 40
             ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 538,
-            "student_id": 509,
-            "subject_id": 1045,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [],
             "preferred_location_id": null,
             "notes": ""
         },
@@ -5444,102 +5215,6 @@
             "notes": ""
         },
         {
-            "id": 560,
-            "student_id": 529,
-            "subject_id": 1017,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                5,
-                22,
-                26,
-                36
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 561,
-            "student_id": 530,
-            "subject_id": 1018,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                37,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 562,
-            "student_id": 531,
-            "subject_id": 1001,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 563,
-            "student_id": 532,
-            "subject_id": 1001,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 564,
-            "student_id": 532,
-            "subject_id": 1018,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                37,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 565,
-            "student_id": 532,
-            "subject_id": 1017,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                5,
-                22,
-                26,
-                36
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 566,
             "student_id": 533,
             "subject_id": 1001,
@@ -5719,17 +5394,6 @@
             "notes": ""
         },
         {
-            "id": 575,
-            "student_id": 543,
-            "subject_id": 1002,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                6
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 576,
             "student_id": 544,
             "subject_id": 1003,
@@ -5786,18 +5450,6 @@
             "notes": ""
         },
         {
-            "id": 579,
-            "student_id": 547,
-            "subject_id": 1018,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                37,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
             "id": 580,
             "student_id": 548,
             "subject_id": 1017,
@@ -5807,18 +5459,6 @@
                 22,
                 26,
                 36
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 581,
-            "student_id": 549,
-            "subject_id": 1018,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                37,
-                40
             ],
             "preferred_location_id": null,
             "notes": ""
@@ -5848,62 +5488,6 @@
         {
             "id": 583,
             "student_id": 551,
-            "subject_id": 1001,
-            "weekly_sessions": 1,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 584,
-            "student_id": 552,
-            "subject_id": 1001,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                9,
-                10,
-                14,
-                18,
-                19,
-                27,
-                32,
-                33,
-                34,
-                35,
-                39,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 585,
-            "student_id": 552,
-            "subject_id": 1018,
-            "weekly_sessions": 2,
-            "possible_tutors_ids": [
-                37,
-                40
-            ],
-            "preferred_location_id": null,
-            "notes": ""
-        },
-        {
-            "id": 586,
-            "student_id": 553,
             "subject_id": 1001,
             "weekly_sessions": 1,
             "possible_tutors_ids": [
