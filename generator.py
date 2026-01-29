@@ -82,43 +82,52 @@ def generate_schedule(tutors, students, rooms, intents):
                 t_day = tutor_schedule.get(dzien_str, {})
                 s_day = student_schedule.get(dzien_str, {})
 
-                for (
-                    godzina,
-                    t_available,
-                ) in t_day.items():  # items aby przyporzadkowac godzinie godzine a tavaliable true or false
-                    if lekcje_umowione_dla_ucznia >= needed:
-                        break
+                #Wprowadzenie atrakcyjnosci godziny jesli sasiaduje z zajeta przez nauczyciela godzina i jest wczesna
+                wszystkie_godziny =list(t_day.keys())
+               
+             ##################################################################################
+                def ocena_atrakcyjnosci(godz):
+                    punkty = 0 
+                    try:
+                            h_int = int(godz.split(':')[0])
+                            punkty += (24 - h_int) * 10  
+                    except:
+                            pass
+                    idx = wszystkie_godziny.index(godz)
+                     
+                    for i in [-1,1]:
+                        check_idx = i + idx 
+                        if 0 <= check_idx < len(wszystkie_godziny):
+                            sasiad_h = wszystkie_godziny[check_idx]
+                            stan_sasiada = t_day[sasiad_h]
+                            if stan_sasiada == "ZAJETE":
+                                punkty += 500  
+                            elif stan_sasiada is False:
+                                punkty +=-10
+                    return punkty
+                ###################################################################################
+                godziny_posortowane = sorted(wszystkie_godziny, key=ocena_atrakcyjnosci, reverse=True)
 
-                    # Czy nauczyciel wolny?
-                    if t_available is not True:
-                        continue
+                for godzina in godziny_posortowane:
+                    if lekcje_umowione_dla_ucznia >= needed: break
+                    t_available = t_day[godzina]
 
-                    # Czy uczen wolny?
-                    if s_day.get(godzina) is not True:
-                        continue
-
+                    if t_available is not True: continue      
+                    if s_day.get(godzina) is not True: continue
+                
                     wolna_sala_id = None
-                    wolna_sala_obj = None
 
-                    pref_room = str(
-                        intent.get("preferred_room_id")
-                    )  # Pobieramy ID preferowanej
+                    pref_room = str(intent.get('preferred_room_id'))
                     lista_sal = list(rooms.keys())
 
                     if pref_room and pref_room in lista_sal:
                         lista_sal.remove(pref_room)
                         lista_sal.insert(0, pref_room)
-
-                    # 2.Najpierw preferowana, potem reszta
+            
                     for r_id in lista_sal:
-                        room_schedule = rooms[r_id]
-                        r_day = room_schedule.get(dzien_str, {})
-
-                        if r_day.get(godzina) is True:
+                        if rooms[r_id][str(dzien)][godzina] is True:
                             wolna_sala_id = r_id
-                            wolna_sala_obj = r_day
-
-                            break  # Znalezione
+                            break
                     # print(wolna_sala_obj)
                     if wolna_sala_id:
                         # sukces, zapisanie lekcji
@@ -134,9 +143,9 @@ def generate_schedule(tutors, students, rooms, intents):
                         )
 
                         # Zajecie zasobow
-                        t_day[godzina] = False
+                        t_day[godzina] = "ZAJETE"
                         s_day[godzina] = False
-                        wolna_sala_obj[godzina] = False
+                        rooms[wolna_sala_id][str(dzien)][godzina] = False
 
                         lekcje_umowione_dla_ucznia += 1
                         zrealizowane += 1
