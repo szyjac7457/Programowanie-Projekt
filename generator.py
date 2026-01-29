@@ -228,6 +228,13 @@ def main():
 
     wyswietl_wyniki(best_grafik, best_score)
 
+    OUTPUT_FILE = "SCHEDULE_OUTPUT.json"
+    try:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(best_grafik, f, indent=4, ensure_ascii=False)
+        print(f"\nZapisano wynik algorytmu do pliku: {OUTPUT_FILE}")
+    except Exception as e:
+        print(f"\nNie udało się zapisać wyniku JSON: {e}")
 
 if __name__ == "__main__":
     main()
