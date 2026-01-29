@@ -92,15 +92,28 @@ def generate_schedule(tutors,students,rooms,intents):
                     #Czy uczen wolny?
                     if s_day.get(godzina) is not True: continue
 
-                    wolna_sala_id = None
+                    wolna_sala_id = None   
                     wolna_sala_obj = None
-                    for r_id, room_schedule in rooms.items():
+
+                    pref_room = str(intent.get('preferred_room_id')) # Pobieramy ID preferowanej
+                    lista_sal = list(rooms.keys()) 
+                    
+                    
+                    if pref_room and pref_room in lista_sal:
+                        lista_sal.remove(pref_room) 
+                        lista_sal.insert(0, pref_room) 
+
+                    # 2.Najpierw preferowana, potem reszta
+                    for r_id in lista_sal:
+                        room_schedule = rooms[r_id]
                         r_day = room_schedule.get(dzien_str, {})
+                        
                         if r_day.get(godzina) is True:
                             wolna_sala_id = r_id
                             wolna_sala_obj = r_day
-                            break # Mamy sale
-                    
+                            
+                            break #Znalezione
+                    #print(wolna_sala_obj)
                     if wolna_sala_id:
                        #sukces, zapisanie lekcji
                         grafik.append({
@@ -115,7 +128,7 @@ def generate_schedule(tutors,students,rooms,intents):
                         #Zajecie zasobow
                         t_day[godzina] = False          
                         s_day[godzina] = False          
-                        wolna_sala_obj[godzina] = False 
+                        wolna_sala_obj[godzina]=False
                         
                         lekcje_umowione_dla_ucznia += 1
                         zrealizowane += 1
@@ -146,6 +159,7 @@ def main():
             print(lekcja)
     else:
         print("  Nie udało się umówić żadnej lekcji.")
+ 
 
 if __name__ == "__main__":
     main()
