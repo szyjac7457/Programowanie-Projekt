@@ -14,6 +14,19 @@ def time_to_min(t_str):
 
 
 def availability_grid(raw_data, field_name):
+    """
+    Tworzy siatkę dostępności dla danej grupy osób
+
+    Funkcja przetwarza listę przedziałów czasowych na strukturę:
+    {ID_OSOBY: {DZIEN_TYGODNIA: {GODZINA_LEKCJI: Czy_Dostepny (bool)}}}
+
+    Args:
+        raw_data (list): Lista słowników z surowymi danymi o dostępności
+        field_name (str): Klucz identyfikujący osobę
+
+    Returns:
+        dict: Zagnieżdżony słownik reprezentujący dostępność w poszczególnych slotach
+    """
     grid = {}
     all_ids = set(item[field_name] for item in raw_data)
 
@@ -35,6 +48,15 @@ def availability_grid(raw_data, field_name):
 
 
 def load_tutor_subject(f_path):
+    """
+    Wczytuje plik CSV przypisujący przedmioty do nauczycieli
+
+    Args:
+        f_path (str): Ścieżka do pliku CSV
+
+    Returns:
+        dict: Słownik {tutor_id: [lista_id_przedmiotów]}
+    """
     tutor_subjcets = {}
     try:
         with open(f_path, "r", encoding="utf-8") as f:
@@ -58,6 +80,15 @@ def load_tutor_subject(f_path):
 
 
 def create_rooms_grid(rooms_data):
+    """
+    Inicjalizuje dostępność sal lekcyjnych
+    Domyślnie ustawia True jako status dostępnosci każdej sali
+
+    Args:
+        rooms_data (list): Lista słowników z danymi sal
+    Returns:
+        dict: Siatka dostępności sal
+    """
     grid = {}
     for room in rooms_data:
         room_id = room["id"]
@@ -66,6 +97,12 @@ def create_rooms_grid(rooms_data):
 
 
 def main():
+    """
+    Wczytuje pliki źródłowe z katalogu Import
+    Przetwarza dane na format użyteczny dla algorytmu
+    Filtruje intencje uczniów pomijając tych bez zdefiniowanej dostępności
+    Zapisuje wynik do pliku JSON
+    """
     print("GENEROWANIE PLIKU")
 
     path_students = os.path.join("Import", "students_abavilities.json")

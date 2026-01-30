@@ -7,6 +7,12 @@ INPUT_F = "SCHEDULE_OUTPUT.json"
 OUTPUT_EXCEL = "Plan_Zajec.xlsx"
 
 def create_visual_schedule():
+    """
+    Wczytuje wynik algorytmu z json i generuje plik xlsx
+    
+    Funkcja tworzy tabelę (godziny x dni tygodnia), wpisuje lekcje do komórek
+    i aplikuje style (zawijanie tekstu, ramki) przy użyciu XlsxWriter
+    """
     print("Rozpoczynam generowanie excela")
     if not os.path.exists(INPUT_F):
         print("Błąd! Brak pliku {INPUT_F}, uruchom napierw generator.py")
